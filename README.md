@@ -16,7 +16,7 @@
 
 <!-- Activity chart -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thekavishshah&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushoza3&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 
